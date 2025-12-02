@@ -1,16 +1,81 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Jhonatham Jesus
 
-<!--
-**Jhonathampro/Jhonathampro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Sistemas de Informação na FIAP (bolsista pelo ENEM)**  
+💻 **Desenvolvedor Full Stack** focado em evoluir como **Back-end Developer**  
+🚀 Apaixonado por tecnologia, aprendizado contínuo e criação de soluções que geram impacto real.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou bolsista na FIAP, onde descobri minha paixão por tecnologia ao vivenciar projetos, desafios e colaboração com professores e colegas. Desde então, venho me dedicando ao desenvolvimento de software, sempre buscando aprender novas ferramentas e boas práticas.
+
+Tenho experiência no desenvolvimento de APIs, modelagem de banco de dados e construção de interfaces modernas. Meu foco atual é evoluir como **Desenvolvedor Back-end**, criando aplicações escaláveis, bem estruturadas e com alta performance.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### **Back-end**
+- PHP • Laravel  
+- Java • Spring Boot  
+
+### **Front-end**
+- Vue.js  
+- React  
+- JavaScript  
+
+### **Banco de Dados**
+- PostgreSQL  
+- SQL  
+
+### **DevOps / Infra**
+- Docker  
+
+### **Ferramentas**
+- Git & GitHub  
+- Postman  
+- Metabase  
+
+---
+
+## 📌 Experiência
+
+### **MazingDev — Desenvolvedor Full Stack (02/2024 - Atual)**
+- Desenvolvimento de API em Laravel integrada ao front-end em Vue.js.  
+- Modelagem e gerenciamento de banco em PostgreSQL com containers Docker.  
+- Criação de queries SQL avançadas para dashboards com Metabase.  
+- Testes e validação de APIs com Postman, garantindo performance e confiabilidade.  
+
+---
+
+## 🎯 Projeto em Destaque
+
+### **OnboardingX – Challenge FIAP Vivo (2025)**
+Plataforma corporativa de onboarding desenvolvida em parceria com a Vivo.  
+- Front-end em **React**  
+- Back-end em **Java + Spring Boot**  
+- Banco de dados em **PostgreSQL**  
+🏆 Projeto vencedor do Challenge FIAP  
+
+---
+
+## 📚 Formação
+
+🎓 **FIAP – Sistemas de Informação (03/2024 – 12/2027)**  
+Conteúdos estudados: Java, Spring Boot, SQL, Oracle, Modelagem de Dados, Estruturas de Dados, POO, HTML, CSS, JavaScript, Bootstrap, Kanban e Scrum.
+
+---
+
+## 📫 Contato
+
+📧 **E-mail:** jhonathampro@gmail.com  
+🌐 **LinkedIn:** https://www.linkedin.com/in/jhonatham-jesus-724953259  
+📍 São Paulo – SP  
+
+---
+
+## ⭐ Sobre meu GitHub
+
+Aqui você encontrará meus projetos pessoais, acadêmicos e profissionais — sempre buscando evoluir, aprender e colaborar. Estou aberto a sugestões, contribuições e conexões!
+
