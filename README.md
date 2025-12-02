@@ -61,7 +61,8 @@ Plataforma corporativa de onboarding desenvolvida em parceria com a Vivo.
 - Front-end em **React**  
 - Back-end em **Java + Spring Boot**  
 - Banco de dados em **PostgreSQL**  
-🏆 Projeto vencedor do Challenge FIAP  
+- 🏆 Projeto vencedor do Challenge FIAP
+- 🔗 GitHub: https://github.com/Jhonathampro/vivo-now
 
 ---
 
