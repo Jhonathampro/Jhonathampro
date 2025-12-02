@@ -14,28 +14,33 @@ Tenho experiência no desenvolvimento de APIs, modelagem de banco de dados e con
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Back-end
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
+</p>
 
-### **Back-end**
-- PHP • Laravel  
-- Java • Spring Boot  
+## 🎨 Front-end
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+</p>
 
-### **Front-end**
-- Vue.js  
-- React  
-- JavaScript  
+## 🗄 Banco de Dados
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/>
+</p>
 
-### **Banco de Dados**
-- PostgreSQL  
-- SQL  
-
-### **DevOps / Infra**
-- Docker  
-
-### **Ferramentas**
-- Git & GitHub  
-- Postman  
-- Metabase  
+## ⚙ Infra / DevOps
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="50" style="fill:#9e9e9e;" />
+</p>
 
 ---
 
