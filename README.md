@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Jhonatham Jesus
 
-🎓 **Estudante de Sistemas de Informação na FIAP (bolsista pelo ENEM)**  
+🎓 **Estudante de Sistemas de Informação na FIAP **  
 💻 **Desenvolvedor Full Stack** focado em evoluir como **Back-end Developer**  
 🚀 Apaixonado por tecnologia, aprendizado contínuo e criação de soluções que geram impacto real.
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou bolsista na FIAP, onde descobri minha paixão por tecnologia ao vivenciar projetos, desafios e colaboração com professores e colegas. Desde então, venho me dedicando ao desenvolvimento de software, sempre buscando aprender novas ferramentas e boas práticas.
+Sou estudante na FIAP, onde descobri minha paixão por tecnologia ao vivenciar projetos, desafios e colaboração com professores e colegas. Desde então, venho me dedicando ao desenvolvimento de software, sempre buscando aprender novas ferramentas e boas práticas.
 
 Tenho experiência no desenvolvimento de APIs, modelagem de banco de dados e construção de interfaces modernas. Meu foco atual é evoluir como **Desenvolvedor Back-end**, criando aplicações escaláveis, bem estruturadas e com alta performance.
 
